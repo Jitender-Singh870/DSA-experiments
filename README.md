@@ -1,5 +1,5 @@
 ### **Linked-List**  
-This folder includes implementations of singly and doubly linked lists. It covers fundamental operations like insertion, deletion, and traversal, demonstrating how nodes are connected and manipulated in linear and bidirectional forms.
+This includes implementations of singly and doubly linked lists. It covers fundamental operations like insertion, deletion, and traversal, demonstrating how nodes are connected and manipulated in linear and bidirectional forms.
 
 ---
 
